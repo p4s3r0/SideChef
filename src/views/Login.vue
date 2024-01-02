@@ -9,7 +9,7 @@
     </div>
 
     <div id="version">
-        <p>@v-0.9</p>
+        <p>@v-1.0</p>
     </div>
 
     <p id="registerRoute" @click="this.$router.push('/register')">Register</p>
