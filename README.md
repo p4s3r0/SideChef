@@ -1,0 +1,2 @@
+# sideChef
+Easily scale your favorite recipes with this user-friendly cooking app! Input a recipe for a specific number of persons (X), and let the app seamlessly calculate the adjusted ingredient quantities for any desired serving size (Y). Additionally, you can store and manage detailed recipe descriptions for a personalized cooking experience. Simplify your meal planning and ensure perfect portions every time with the Recipe Scaling App.
